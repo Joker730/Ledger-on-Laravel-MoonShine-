@@ -278,6 +278,4 @@ docker compose down
 
 ---
 
-## Лицензия
 
-MIT
