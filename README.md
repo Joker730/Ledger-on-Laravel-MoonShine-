@@ -2,6 +2,9 @@
 
 Laravel 12 + MoonShine 4.x + PostgreSQL + Docker
 
+## Демо видео
+[Смотреть демо на Google Drive](https://drive.google.com/file/d/1Kn5qj-XBo_jqnD71ZxWjK4ge15gp5s5X/view)
+
 ## Скриншоты
 
 ### Список счетов
