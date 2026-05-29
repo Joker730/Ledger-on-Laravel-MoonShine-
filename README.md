@@ -2,6 +2,30 @@
 
 Laravel 12 + MoonShine 4.x + PostgreSQL + Docker
 
+## Скриншоты
+
+### Список счетов
+![Счета](screenshots/accounts.png)
+
+### Транзакции
+![Транзакции](screenshots/transactions.png)
+
+### Создание транзакции
+![Создание транзакции](screenshots/transaction-create.png)
+
+### Детальный просмотр транзакции
+![Проводки](screenshots/transaction-detail.png)
+
+### ОСВ отчёт
+![ОСВ](screenshots/trial-balance.png)
+
+### REST API
+![API](screenshots/api1.png)
+![API](screenshots/api2.png)
+
+### Unit тесты
+![Тесты](screenshots/tests.png)
+
 ---
 
 ## Стек технологий
